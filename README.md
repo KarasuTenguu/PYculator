@@ -27,7 +27,7 @@
 
 ```bash
 pip install PySide6
-python "Калькулятор.py"
+python "PYculator 1.1.py"
 ```
 
 **Сборка в .exe:**
@@ -96,7 +96,7 @@ pyinstaller "Калькулятор.spec"
 
 ```bash
 pip install PySide6
-python "Калькулятор.py"
+python "PYculator 1.1.py"
 ```
 
 **Build to .exe:**
@@ -149,7 +149,7 @@ The compiled `.exe` will be in the `dist/` folder.
 ## 🏗 Architecture / Архитектура
 
 ```
-Калькулятор.py
+PYculator 1.1.py
 ├── SafeMathParser        # Recursive descent parser (replaces eval)
 ├── AnimatedButton        # Custom QPushButton with press/release animation
 ├── HistorySidePanel      # Sliding history panel (QPropertyAnimation)

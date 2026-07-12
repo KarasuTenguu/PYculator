@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['Программы\\Калькулятор.py'],
+    ['PYculator 1.1.py'],
     pathex=[],
     binaries=[],
     datas=[],
